@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #f9f9f9;
+}
+
+form {
+  margin: 20px;
+}
+
+#canvas {
+  margin: auto;
+  width: 800px;
+  height: 600px;
+  border: 1px solid #ccc;
+}
